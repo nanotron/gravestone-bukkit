@@ -6,6 +6,10 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
+/*
+* @author Ernest Millan
+*/
+
 public class GraveCommands implements CommandExecutor {
 	//private Gravestone plugin;
 	Player player;

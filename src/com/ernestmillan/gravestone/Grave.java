@@ -19,6 +19,7 @@ import com.ernestmillan.gravestone.ConfigAccessor;
 
 /**
  * The grave.
+ * @author Ernest Millan
  */
 public class Grave {
 	

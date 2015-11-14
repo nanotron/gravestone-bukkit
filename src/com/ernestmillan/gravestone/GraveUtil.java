@@ -15,6 +15,7 @@ import com.sk89q.worldguard.bukkit.WorldGuardPlugin;
 
 /**
  * General functionality.
+ * @author Ernest Millan
  */
 public class GraveUtil {
 

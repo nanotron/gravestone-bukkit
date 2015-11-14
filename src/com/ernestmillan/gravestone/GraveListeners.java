@@ -8,6 +8,7 @@ import org.bukkit.event.entity.EntityDeathEvent;
 
 /**
  * Global listeners.
+ * @author Ernest Millan
  */
 public class GraveListeners implements Listener {
 	

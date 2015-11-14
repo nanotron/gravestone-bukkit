@@ -7,6 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 /**
  * Custom configuration files.
+ * @author Ernest Millan
  */
 public class GraveCustomConfig {
 	
