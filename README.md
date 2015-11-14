@@ -2,10 +2,9 @@
 
 ### Minecraft Gravestone Plugin for Bukkit
 
-<img src="http://millan.info/img/gravestone/gravestone.png" width="400px" />
+<img src="http://millan.info/img/gravestone/gravestone.jpg" width="400px" />
 
-Constructs an inscribed *gravestone*, with a buried inventory chest, wherever a player dies.
-Features
+Constructs an inscribed **gravestone**, with a buried inventory chest, wherever a player dies.
 
 Visit the official **Bukkit Project Page** for more information: http://dev.bukkit.org/bukkit-plugins/gravestone/
 
@@ -28,10 +27,10 @@ Visit the official **Bukkit Project Page** for more information: http://dev.bukk
 * Configurable options, Permissions and WorldGuard support.
 
 ###Fancy Grave
-![](http://millan.info/img/prayer/grave_fancy.jpg)
+![](http://millan.info/img/gravestone/grave_fancy.jpg)
 
 ###Fancy Grave with Buried Treasure Chest
-![](http://millan.info/img/prayer/grave_treasure.jpg)
+![](http://millan.info/img/gravestone/grave_treasure.jpg)
 
 ###Basic Grave
-![](http://millan.info/img/prayer/grave_basic.jpg)
+![](http://millan.info/img/gravestone/grave_basic.jpg)
