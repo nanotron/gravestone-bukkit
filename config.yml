@@ -1,0 +1,17 @@
+# config.yml for Gravestone, Copyright 2014 Ernest Millan. http://dev.bukkit.org/bukkit-plugins/gravestone/. Delete this file and reload server to reset.
+enable-white-list: false
+only-build-grave-on-natural-material: true
+enable-fancy-grave: true
+allow-unlimited-graves-per-player: true
+grave-stone-material: smooth stairs
+fancy-grave-material: dirt
+enable-grave-lightning-effect: true
+enable-fancy-grave-side-decor: true
+fancy-grave-side-decor: red rose
+create-buried-inventory-chest: true
+display-date-time-of-death: true
+only-build-grave-if-player-has-inventory: true
+allow-grave-in-normal-world: true
+allow-grave-in-nether: true
+allow-grave-in-end: true
+

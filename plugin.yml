@@ -1,0 +1,31 @@
+name: Gravestone
+main: com.ernestmillan.gravestone.Gravestone
+version: 1.0.9
+description: Constructs an inscribed gravestone, with a buried inventory chest, wherever a player dies.
+author: Ernest Millan, NanotronPrime
+website: http://dev.bukkit.org/bukkit-plugins/gravestone/
+
+commands:
+  gravestone:
+    description: Provides access to Gravestone related information.
+    usage: Constructs an inscribed gravestone, with a buried inventory chest, wherever a player dies.
+    permission: gravestone.gravestone
+    permission-message: You may not issue this command.
+
+permissions:
+  gravestone.*:
+    description: Permissions for Gravestone.
+    children:
+      gravestone.grave: true
+      gravestone.gravestone: true
+      gravestone.gravestone.info: true
+  gravestone.grave:
+    default: true
+    description: Player permission for construction of a grave.    
+  gravestone.gravestone:
+    default: true
+    description: The default gravestone command.
+  gravestone.gravestone.info:
+    default: true
+    description: Provides info about the Gravestone plugin.
+  
